@@ -1,0 +1,2 @@
+New third party library: React-Bootstrap for css form layout
+Javascript feature: Math library and built-in Math.round
